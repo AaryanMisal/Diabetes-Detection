@@ -1,0 +1,2 @@
+This is a KNN model to detect if a patient has diabetes based on certain parameters: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI,Diabetes PedigreeFunction, Age.
+The model produces an accuracy of ~ 99% for k = 5.
